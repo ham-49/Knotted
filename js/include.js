@@ -1,4 +1,4 @@
-fetch('./html/header.html')
+fetch('/Knotted/html/header.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.header-include').innerHTML = data;
@@ -62,7 +62,7 @@ fetch('./html/header.html')
   });
 });
 /* footer */
-fetch('./html/footer.html')
+fetch('/Knotted/html/footer.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.footer-include').innerHTML = data;
@@ -70,7 +70,7 @@ fetch('./html/footer.html')
   
 });
 /* top */
-fetch('./html/top.html')
+fetch('/Knotted/html/top.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.top-include').innerHTML = data;
