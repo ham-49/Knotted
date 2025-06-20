@@ -12,42 +12,42 @@ const newMenus = [
   {
   "title": "초당 옥수수 크림 도넛",
   "category": "도넛",
-  "imageUrl": "../images/new-menu01.png"
+  "imageUrl": "/Knotted/images/new-menu01.png"
   },
   {
   "title": "메론 크림 도넛",
   "category": "도넛",
-  "imageUrl": "../images/new-menu02.png"
+  "imageUrl": "/Knotted/images/new-menu02.png"
   },
   {
   "title": "민트 초코 크림 도넛",
   "category": "도넛",
-  "imageUrl": "../images/new-menu03.png"
+  "imageUrl": "/Knotted/images/new-menu03.png"
   },
   {
   "title": "스마일 보스톤 크림 도넛",
   "category": "도넛",
-  "imageUrl": "../images/new-menu04.png"
+  "imageUrl": "/Knotted/images/new-menu04.png"
   },
   {
   "title": "수박 주스",
   "category": "음료",
-  "imageUrl": "../images/new-menu06.png"
+  "imageUrl": "/Knotted/images/new-menu06.png"
   },
   {
   "title": "수박 화채",
   "category": "음료",
-  "imageUrl": "../images/new-menu07.png"
+  "imageUrl": "/Knotted/images/new-menu07.png"
   },
   {
   "title": "망고 애플티 에이드",
   "category": "음료",
-  "imageUrl": "../images/new-menu08.png"
+  "imageUrl": "/Knotted/images/new-menu08.png"
   },
   {
   "title": "통통 단팥 우유 빙수",
   "category": "디저트",
-  "imageUrl": "../images/new-menu09.png"
+  "imageUrl": "/Knotted/images/new-menu09.png"
   }
 ]
 
