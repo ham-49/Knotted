@@ -1,4 +1,6 @@
-fetch('html/header.html')
+let basePath = location.pathname.includes('/html/') ? '../html/' : 'html/';
+
+fetch(basePath + 'header.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.header-include').innerHTML = data;
@@ -62,7 +64,7 @@ fetch('html/header.html')
   });
 });
 /* footer */
-fetch('html/footer.html')
+fetch(basePath + 'footer.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.footer-include').innerHTML = data;
@@ -70,7 +72,7 @@ fetch('html/footer.html')
   
 });
 /* top */
-fetch('html/top.html')
+fetch(basePath + 'top.html')
 .then(response => response.text())
 .then(data => {
   document.querySelector('.top-include').innerHTML = data;
