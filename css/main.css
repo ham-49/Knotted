@@ -401,7 +401,6 @@ footer .footer-wrap .footer-bottom p {
   right: 270px;
   width: 240px;
   height: 220px;
-  z-index: -1; /* 콘텐츠 임시 숨김 */
 }
 .background-animation .background-animation-inner {
   position: relative;
