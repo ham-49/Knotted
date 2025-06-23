@@ -48,24 +48,32 @@
 - **예약 & 검색 기능 고정 배치**  
   : 좌/우 측 사이드에 위치하여 어느 구간에서든 빠르게 접근 가능하도록 구현
   : 예약 페이지 이동 및 제품 검색, 태그 클릭 시 해당 태그 내용으로 검색 가능하도록 구현
+  
+  <img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-메인비주얼, 검색기능.gif?raw=true" alt="예약페이지" width="700">
 
 ### 🛠 2. 상단 영역
 - **이벤트 배너 (Swiper UI)**  
   : 시선을 사로잡는 비주얼과 함께 최신 이벤트를 슬라이드 형태로 노출
-
+  
+  <img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-메인비주얼, 검색기능.gif?raw=true" alt="예약페이지" width="700">
+  
 - **Intro 섹션**  
   : 브랜드의 핵심 메시지를 간결하게 전달
-
+  
+  <img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-뉴메뉴.gif?raw=true" alt="인트로" width="700">
 ### 🛠 3. 제품 및 콘텐츠 영역
 - **신메뉴 소개 섹션 (Swiper UI)**  
   : 시즌별 신제품을 슬라이드 형태로 구성, 직관적인 탐색 제공
-
+  
+  <img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-뉴메뉴.gif?raw=true" alt="신메뉴" width="700">
 - **온라인샵 소개 섹션 (Swiper UI)**  
   : 이미지 중심으로 인기 굿즈 강조, 자연스럽게 쇼핑 연결 유도
-
+  
+  <img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-온라인샵.gif?raw=true" alt="온라인샵" width="700">
 - **공지사항 섹션**  
   : 공지 리스트 오른쪽 버튼, 하단 버튼 클릭 시 서브 페이지 이동 구현
 
+  <img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-공지사항.gif?raw=true" alt="공지사항" width="700">
 - **Information 섹션**  
   - **구성** : 매장 안내 / 이벤트 / 브랜드 스토리 / FAQ  
   - **형식** : 이미지 + 제목 + 요약 설명 + 바로가기 버튼  
@@ -90,7 +98,8 @@
 - **intro 영역** : 메인 페이지에서 예약페이지 이동 시 개인 / 단체로 구분하여 원하는 예약 사이트로 이동할 수 있도록 구성
 - **개인 예약** : 매장 / 메뉴 / 예약 일자 정보를 입력하면 상단에 입력한 콘텐츠의 정보가 넘어오며, 메뉴 파트에서는 선택 메뉴에 담기 버튼을 누른 메뉴 정보가 넘어오도록 구현하였으며, 상세 정보를 클릭하면 해당 제품의 상세정보가 보여지도록 구현
 - **단체 예약** : 폼 형식으로 작성하였으며, 모든 정보에 대한 값이 넘어와야 제출할 수 있도록 구현
-- 
+ <img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-예약.gif?raw=true" alt="예약페이지" width="700">
+ <img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-대량주문.gif?raw=true" alt="예약페이지" width="700">
 #### 매장안내
 
 #### 메뉴소개
@@ -106,9 +115,11 @@
 #### 자주 묻는 질문 (FAQ)
 - **질문 영역** : 질문 클릭 시 질문에 대한 답변이 나오도록 구성
 - **페이지네이션 영역** : 질문을 10개의 콘텐츠만 보여주도록 페이지네이션을 구성하여 페이지를 넘기면 다음 내용이 보이도록 구현
+<img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-자주묻는질문.gif?raw=true" alt="자주묻는질문" width="700">
 
 #### 창업 문의
 - **창업 문의 영역** : 동의를 한 경우 입점 신청 폼으로 이동할 수 있도록 구현
+<img src="https://github.com/ham-49/Knotted/blob/main/Readme/노티드-창업문의.gif?raw=true" alt="창업문의" width="700">
 
 #### 🔐 로그인 페이지
 - **입력 필드** : 이메일 / 비밀번호 / ‘로그인 상태 유지’ 체크박스  
