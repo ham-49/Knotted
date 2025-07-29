@@ -2722,7 +2722,19 @@ main .instagram .instagram-wrap .instagramSwiper .instagram-slide-wrapper .insta
   margin-right: 10px;
   color: #717171;
 }
-
+.iw_inner {
+  padding: 5px;
+  font-family: "Pretendard", sans-serif;
+  color: #3C3C3C;
+}
+.iw_inner h3 {
+  font-size: 1.29rem;
+  color: #EE9DC2;
+}
+.iw_inner p {
+  font-size: 1rem;
+  color: #898989;
+}
 section.login-section {
   background-color: #fff;
   width: 100%;
