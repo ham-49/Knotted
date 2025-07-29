@@ -207,3 +207,16 @@
       }
    }
 }
+.iw_inner {
+  padding: 5px;
+  font-family: $primary-kr;
+  color: $dim-black;
+  h3 {
+    font-size: $body-title;
+    color: $point-color;
+  }
+  p {
+    font-size: $body;
+    color: $light-black;
+  }
+}
